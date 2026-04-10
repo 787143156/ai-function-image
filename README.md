@@ -9,7 +9,7 @@
 **English:** This is a repository for a professional AI Function Image Generator. This free, web-based tool uses AI to parse mathematical data and formulas, generating beautiful and accurate function graphs, charts, and multi-dimensional data visualizations. It's designed for students, educators, and researchers.
 
 **中文简介：**
-专业的 AI 函数图像生成服务！利用人工智能技术解析数学数据，一键生成精美、准确的 AI 函数图像。支持三维、参数方程及多维数据可视化，让数学之美通过智能技术优雅呈现。
+专业的 AI 函数图像生成服务！利用人工智能技术解析数学数据，一键生成精美、准确的 AI 函数图像。支持三维、参数方程及多维数据可视化，让数学之美通过智能技术优雅呈现
 
 ## ➡️ [**立即免费体验 AI 函数图像 (Click to Use for Free)**](https://www.eyuseo.com/zh/image-generator/ai-function-image)
 
